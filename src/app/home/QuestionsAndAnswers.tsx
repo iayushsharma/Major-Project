@@ -73,8 +73,8 @@ const QAS = [
     answer: (
       <p>
         OpenResume was created by{" "}
-        <Link href="https://github.com/xitanggg">Xitang Zhao</Link> and designed
-        by <Link href="https://www.linkedin.com/in/imzhi">Zhigang Wen</Link> as
+        <Link href="https://github.com/iayushsharma">Xitang Zhao</Link> and designed
+        by <Link href="https://www.linkedin.com/in/itzayushsharma/">Zhigang Wen</Link> as
         a weekend project. As immigrants to the US, we had made many mistakes
         when creating our first resumes and applying for internships and jobs.
         It took us a long while to learn some of the best practices. While
@@ -99,7 +99,7 @@ const QAS = [
           at{" "}
           <Link href="mailto:hello@open-resume.com">hello@open-resume.com</Link>{" "}
           or{" "}
-          <Link href="https://github.com/xitanggg/open-resume/issues/new">
+          <Link href="https://github.com/iayushsharma/Major-Project">
             open an issue
           </Link>{" "}
           at our Github repository. Whether you like it or not, we would love to
