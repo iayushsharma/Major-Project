@@ -23,12 +23,12 @@ To build an interactive and intelligent resume platform that helps users:
 
 ## 👥 Team Members
 
-| Name             | Role                 |
-|------------------|----------------------|
-| Ayush Sharma     | Frontend & Integrations |
-| [Member 2 Name]  | Backend Developer    |
-| [Member 3 Name]  | Data/NLP Analyst     |
-| [Member 4 Name]  | UI/UX Designer       |
+| Name                | Role                 |
+|---------------------|----------------------|
+| Ayush Sharma        | Frontend & Integrations |
+| Abhi dwivedi        | Backend Developer    |
+| Devansh Kulshrestha | Data/NLP Analyst     |
+| Dhwaj Sharma        | UI/UX Designer       |
 
 ---
 
