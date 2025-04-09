@@ -1,6 +1,15 @@
-# OpenResume
-
-The goal of OpenResume is to provide everyone with free access to a modern professional resume design and enable anyone to apply for jobs with confidence.
+📄 Major Project Introduction Table
+Field	Details
+Project Title	Resume Builder and Analyzer
+Project Type	Major Project (B.Tech Final Year)
+Department	 Computer Science and Engineering
+Institution	ITM GWALIOR
+Project Duration	Jan 2025 – May 2025
+Team Members	1. Ayush Sharma
+2. Abhi dwivedi
+3. dhwaj Sharma
+4. Devansh Kulshrestha
+Project Guide	Mr Yogesh Sharma
 
 ## ⚒️ Resume Builder
 
