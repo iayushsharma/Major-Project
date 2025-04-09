@@ -1,7 +1,6 @@
 # 📄 Resume Builder and Analyzer
 
 **A B.Tech Final Year Major Project**  
-Inspired by [OpenResume.com](https://openresume.io)
 
 ---
 
@@ -34,10 +33,10 @@ To build an interactive and intelligent resume platform that helps users:
 
 ## 🧑‍🏫 Project Guide
 
-**[Your Guide's Name]**  
-[Designation, e.g., Assistant Professor]  
-[Department Name]  
-[College/University Name]
+ Mr. Yogesh Kumar Sharma 
+ Assistant Professor  
+ Computer Science and Engineering
+ Institute of Technology and Management, Gwalior
 
 
 
