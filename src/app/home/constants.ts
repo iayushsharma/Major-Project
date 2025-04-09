@@ -12,10 +12,10 @@ export const END_HOME_RESUME: Resume = {
     name: "John Doe",
     summary:
       "Software engineer obsessed with building exceptional products that people love",
-    email: "hello@openresume.com",
-    phone: "123-456-7890",
-    location: "NYC, NY",
-    url: "linkedin.com/in/john-doe",
+    email: "Ayushsharma5120@gmail.com",
+    phone: "9644019021",
+    location: "Gwalior",
+    url: "linkedin.com/in/itzayushsharma",
   },
   workExperiences: [
     {
