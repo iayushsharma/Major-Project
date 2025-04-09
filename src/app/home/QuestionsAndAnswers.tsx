@@ -112,7 +112,7 @@ const QAS = [
           with creating their resume, and your word-of-mouth support would be
           greatly appreciated. If you use Github, you can also show your support
           by{" "}
-          <Link href="https://github.com/xitanggg/open-resume">
+          <Link href="https://github.com/iayushsharma/Major-Project">
             giving the project a star
           </Link>{" "}
           to help increase its popularity and reach.
