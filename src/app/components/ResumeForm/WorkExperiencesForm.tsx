@@ -26,9 +26,7 @@ export const WorkExperiencesForm = () => {
             value,
           ]: CreateHandleChangeArgsWithDescriptions<ResumeWorkExperience>
         ) => {
-          // TS doesn't support passing union type to single call signature
-          // https://github.com/microsoft/TypeScript/issues/54027
-          // any is used here as a workaround
+          
           dispatch(changeWorkExperiences({ idx, field, value } as any));
         };
         const showMoveUp = idx !== 0;

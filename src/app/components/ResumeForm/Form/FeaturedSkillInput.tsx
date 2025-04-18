@@ -63,7 +63,7 @@ const CircleRating = ({
                 (hoverRating !== null && hoverRating >= idx) ||
                 (hoverRating === null && rating >= idx)
                   ? circleColor
-                  : "#d1d5db", //gray-300
+                  : "#d1d5db", 
             }}
           />
         </div>

@@ -3,13 +3,7 @@ import { A4_HEIGHT_PX, LETTER_HEIGHT_PX } from "lib/constants";
 import { getPxPerRem } from "lib/get-px-per-rem";
 import { CSS_VARIABLES } from "globals-css";
 
-/**
- * useSetDefaultScale sets the default scale of the resume on load.
- *
- * It computes the scale based on current screen height and derives the default
- * resume height by subtracting the screen height from the total heights of top
- * nav bar, resume control bar, and resume top & bottom padding.
- */
+
 export const useSetDefaultScale = ({
   setScale,
   documentSize,
