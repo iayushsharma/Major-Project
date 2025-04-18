@@ -34,9 +34,7 @@ To build an interactive and intelligent resume platform that helps users:
 ## 🧑‍🏫 Project Guide
 
  Mr. Yogesh Kumar Sharma 
- Assistant Professor  
- Computer Science and Engineering
- Institute of Technology and Management, Gwalior
+ Assistant Professor, 
 
 
 
